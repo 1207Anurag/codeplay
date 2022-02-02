@@ -1,2 +1,8 @@
 public static void main(String[] args){
-int anurag;}
+int anurag;
+int zopsmart;
+function(int anurag, int zopsmart){
+    this.anurag=anurag;
+    this.zopsmart=zopsmart;
+}
+}
